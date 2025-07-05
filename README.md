@@ -1,4 +1,4 @@
-# AWS S3 File Upload Workshop
+# AWS S3 File Upload Workshop by Laravel
 
 ## 📋 Tổng quan
 
@@ -113,12 +113,7 @@ Workshop hỗ trợ 2 ngôn ngữ:
 - [Laravel Documentation](https://laravel.com/docs)
 - [AWS IAM Best Practices](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
 
-## 📞 Hỗ trợ
 
-Nếu gặp vấn đề trong quá trình thực hành, vui lòng:
-1. Kiểm tra lại các bước đã thực hiện
-2. Xem lại cấu hình AWS và Laravel
-3. Liên hệ quản trị viên workshop
 
 ---
 
